@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Kartikey Dixit , currently pursuing B.Tech from MNNIT Allahabad
+- 👋 Hi, I’m Kartikey Dixit , currently pursuing B.Tech from MNNIT Allahabad (Pre-Final Year)
+
 - 👀 I’m interested in Web development , Programming and Book Reading
+
 - 📫 Reach me via Email : kartikeydixit1401@gmail.com
 
 <!---
