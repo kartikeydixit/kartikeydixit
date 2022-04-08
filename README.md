@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kartikeydixit
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Sql
-- 📫 How to reach me : Email : kartikeydixit1401@gmail.com
+- 👋 Hi, I’m Kartikey Dixit , currently pursuing B.Tech from MNNIT Allahabad
+- 👀 I’m interested in Web development , Programming and Book Reading
+- 📫 Reach me via Email : kartikeydixit1401@gmail.com
 
 <!---
 kartikeydixit/kartikeydixit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
