@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kartikey Dixit , currently pursuing B.Tech from MNNIT Allahabad (Pre-Final Year)
+- 👋 Hi, I’m Kartikey Dixit , B.Tech graduate from NIT Allahabad, currently working as a software engineer.
 
 - 👀 I’m interested in Web development , Programming and Book Reading
 
